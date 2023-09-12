@@ -1,0 +1,10 @@
+function displayNames()
+{
+	let names = ['ji', 'kim', 'jon', 'un', 'son']
+
+	for(let i = 0; i < names.length; i++){
+		console.log(names[i])
+}
+
+}
+displayNames()
