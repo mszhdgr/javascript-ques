@@ -1,4 +1,4 @@
-// show object keys
+// a function that show object keys
 // 
 function showKeys()
 {
