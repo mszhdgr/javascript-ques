@@ -1,3 +1,3 @@
-// to show date day timme we simply
+// to show date, day and time we simply
 
 console.log(Date())
