@@ -1,5 +1,7 @@
 // simple terniray
 //
+
+
 let names = ["dexter", "morgan","laila","miguel"]
 
 for(let x of names){
